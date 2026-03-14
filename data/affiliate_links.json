@@ -1,0 +1,22 @@
+{
+    "promise": {
+        "url": "https://example.com/promise",
+        "note": "プロミス - A8で取得後に差し替え"
+    },
+    "acom": {
+        "url": "https://example.com/acom",
+        "note": "アコム - A8で取得後に差し替え"
+    },
+    "mobit": {
+        "url": "https://example.com/mobit",
+        "note": "SMBCモビット - A8で取得後に差し替え"
+    },
+    "aiful": {
+        "url": "https://example.com/aiful",
+        "note": "アイフル - A8で取得後に差し替え"
+    },
+    "lake": {
+        "url": "https://example.com/lake",
+        "note": "レイク - A8で取得後に差し替え"
+    }
+}
