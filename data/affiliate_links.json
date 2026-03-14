@@ -1,22 +1,38 @@
 {
-    "promise": {
-        "url": "https://example.com/promise",
-        "note": "プロミス - A8で取得後に差し替え"
+    "skyoffice": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+ESV7OQ+20EO+5YJRM",
+        "note": "スカイオフィスキャッシング - A8提携済み"
     },
-    "acom": {
-        "url": "https://example.com/acom",
-        "note": "アコム - A8で取得後に差し替え"
+    "arco": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+EROCH6+25IK+601S2",
+        "note": "アルコシステム - A8提携済み"
     },
-    "mobit": {
-        "url": "https://example.com/mobit",
-        "note": "SMBCモビット - A8で取得後に差し替え"
+    "nichiden": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+EU22WA+2J9A+60H7M",
+        "note": "クレジットのニチデン - A8提携済み"
     },
-    "aiful": {
-        "url": "https://example.com/aiful",
-        "note": "アイフル - A8で取得後に差し替え"
+    "arrow": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+EEKT62+2SHI+5YJRM",
+        "note": "アロー - A8提携済み"
     },
-    "lake": {
-        "url": "https://example.com/lake",
-        "note": "レイク - A8で取得後に差し替え"
+    "futaba": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+EDDXYI+38S6+5ZMCI",
+        "note": "フタバ - A8提携済み"
+    },
+    "quick39": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+E97WQ2+1A0Y+62U36",
+        "note": "QUICK39 - A8提携済み"
+    },
+    "hello-happy": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+EAERXM+2EBI+5Z6WY",
+        "note": "ハローハッピー - A8提携済み"
+    },
+    "central": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+EC72QY+363I+5YJRM",
+        "note": "セントラル - A8提携済み"
+    },
+    "plan": {
+        "url": "https://px.a8.net/svt/ejp?a8mat=4AZGC7+EB07JE+3FWK+60WN6",
+        "note": "プラン - A8提携済み"
     }
 }
