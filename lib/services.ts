@@ -33,7 +33,7 @@ export const services: Service[] = [
         cons: ['大手と比べ知名度が低い', '限度額が少なめの場合がある', '金利は標準的'],
         recommended: ['来店せずにネットで完結したい人', 'スピーディーな融資を求める人', '手続きをシンプルに済ませたい人', '地方在住の人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+ESV7OQ+20EO+5YJRM',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#0ea5e9',
     },
     {
@@ -51,7 +51,7 @@ export const services: Service[] = [
         cons: ['大手に比べ知名度が低い', '融資スピードは大手に劣る場合あり', '利用可能ATMが限られる'],
         recommended: ['初めてキャッシングする人', '他社で審査に落ちた経験がある人', '丁寧な対応を求める人', 'キャンペーンを活用したい人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+EROCH6+25IK+601S2',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#6366f1',
     },
     {
@@ -69,7 +69,7 @@ export const services: Service[] = [
         cons: ['対面でのサポートがない', '知名度が大手より低い', '審査に時間がかかる場合がある'],
         recommended: ['忙しくて来店する時間がない人', 'スマホで全て済ませたい人', '深夜や早朝に申し込みたい人', 'ネット操作に慣れている人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+EU22WA+2J9A+60H7M',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#10b981',
     },
     {
@@ -87,7 +87,7 @@ export const services: Service[] = [
         cons: ['金利がやや高めの場合がある', '限度額が小さめ', '知名度は大手に劣る'],
         recommended: ['他社で審査に落ちた人', '審査に不安を感じている人', '柔軟な対応を求める人', '少額の借入を希望する人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+EEKT62+2SHI+5YJRM',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#f59e0b',
     },
     {
@@ -105,7 +105,7 @@ export const services: Service[] = [
         cons: ['融資スピードは大手に劣る場合あり', '限度額が控えめ', 'ATM対応が限られる'],
         recommended: ['女性で安心して借りたい人', '初めてキャッシングする人', '返済計画を丁寧に立てたい人', '女性スタッフに相談したい人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+EDDXYI+38S6+5ZMCI',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#ec4899',
     },
     {
@@ -123,7 +123,7 @@ export const services: Service[] = [
         cons: ['限度額が控えめな場合がある', '大手に比べサービスは限定的', '知名度が低い'],
         recommended: ['今すぐお金が必要な人', '手続きを素早く済ませたい人', 'シンプルなサービスを求める人', '少額の急な出費に対応したい人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+E97WQ2+1A0Y+62U36',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#ef4444',
     },
     {
@@ -141,7 +141,7 @@ export const services: Service[] = [
         cons: ['融資に時間がかかる場合がある', '知名度が大手に劣る', '金利は標準的'],
         recommended: ['借入目的が決まっていない人', '安心できるサービスを重視する人', '柔軟な対応を求める人', 'フリーローンを探している人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+EAERXM+2EBI+5Z6WY',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#8b5cf6',
     },
     {
@@ -159,7 +159,7 @@ export const services: Service[] = [
         cons: ['振込までに時間がかかる場合がある', '大手と比べ知名度は低い', 'ATM借入には対応していない場合あり'],
         recommended: ['近くに店舗がない地方在住の人', '振込で受け取りたい人', '来店する時間がない人', '全国対応のサービスを探している人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+EC72QY+363I+5YJRM',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#14b8a6',
     },
     {
@@ -177,7 +177,7 @@ export const services: Service[] = [
         cons: ['即日融資は営業時間に依存する場合あり', '知名度が大手に劣る', 'サービス内容は限定的'],
         recommended: ['深夜や早朝に申し込みたい人', '全国どこからでも利用したい人', '時間を気にせず手続きしたい人', '簡単な手続きを求める人'],
         affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AZGC7+EB07JE+3FWK+60WN6',
-        ctaText: '公式サイトで申し込む',
+        ctaText: '詳細を見る',
         color: '#f97316',
     },
 ];
