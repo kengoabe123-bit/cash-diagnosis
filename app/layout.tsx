@@ -13,6 +13,9 @@ const notoSansJP = Noto_Sans_JP({
 export const metadata: Metadata = {
   title: 'CashMatch - あなたにピッタリのキャッシングを30秒で診断',
   description: '30秒の無料診断であなたに最適なキャッシングが見つかる。あなたの状況に合わせて、安心して利用できるサービスを提案します。',
+  verification: {
+    google: 'KvzKu39UZd83_x3idpa06ZQbeXzlo5J-Mn1ACXskPf0',
+  },
   openGraph: {
     title: 'CashMatch - あなたにピッタリのキャッシングを30秒で診断',
     description: '30秒の無料診断であなたに最適なキャッシングが見つかる。',
