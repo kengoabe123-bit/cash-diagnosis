@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: 'CashMatch - あなたにピッタリのキャッシングを30秒で診断',
   description: '30秒の無料診断であなたに最適なキャッシングが見つかる。あなたの状況に合わせて、安心して利用できるサービスを提案します。',
   verification: {
-    google: 'Mlqh5zm0FnokIIIavzUIGMbvBVSdL-3x8VQhTys_fuQ',
+    google: 'MIqh5zm0FnokIIIavzUIGMbvBVSdL-3x8VQhTys_fuQ',
   },
   openGraph: {
     title: 'CashMatch - あなたにピッタリのキャッシングを30秒で診断',
